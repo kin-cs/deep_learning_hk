@@ -1,10 +1,11 @@
 # Agenda:
-## Knowledge Meeting
+## DeepLearning Meeting
 1. Machine's hearts - papers
 2. Projects
 
-## Kaggle Meeting
-
+## Kaggle Meeting 
+- Place: TBD
+- Time: Thursday Night (7pm-10pm)
 
 ### Meetings:
 1. Monthly welcoming meetup
