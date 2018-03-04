@@ -8,16 +8,16 @@
 - PingPong: Kin
 
 ## Lecture: 25/3/2018
-1. San
-2. Roy
-3. Kin
-4. 4a Pong
-4. 4b San
-5. Roy
-6. Kin
-7. Pong
-8. San
-9. Roy
-10. 10a Kin
-10. 10b Pong
+- 1 San
+- 2 Roy
+- 3 Kin
+- 4a Pong
+- 4b San
+- 5 Roy
+- 6 Kin
+- 7 Pong
+- 8 San
+- 9 Roy
+- 10a Kin
+- 10b Pong
 
