@@ -16,6 +16,9 @@
 - posts in Medium
   - consolidate our knowledge
   - gain the credits in deep learning industry
+- Joined:
+  - Kin
+  - Pong
 
 ### Core members (admin):
 - 5 ppl
