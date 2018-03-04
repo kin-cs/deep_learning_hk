@@ -1,6 +1,10 @@
 # Agenda:
+## Knowledge Meeting
 1. Machine's hearts - papers
 2. Projects
+
+## Kaggle Meeting
+
 
 ### Meetings:
 1. Monthly welcoming meetup
