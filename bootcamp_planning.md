@@ -1,12 +1,13 @@
 # Planning:
 
-## Due Daate: 18/3/2018
+## Due Date: 18/3/2018
 - Lab 1: Kin
 - Lab 2: Pong 
 - Lab 3: Roy
 - Lab 4: San
+- PingPong: Kin
 
-## Lecture
+## Lecture: 25/3/2018
 1. San
 2. Roy
 3. Kin
