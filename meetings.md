@@ -9,3 +9,6 @@
 ### San:
   - DarkNet (By YOLO's organization)
   - Detectron (By Facebook - for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet)
+  - DexNet (Grasping NN)
+### Vincent:
+  - Change the face (Sijal)
