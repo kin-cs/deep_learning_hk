@@ -1,6 +1,7 @@
 # 2018-03-11
 
 ### Kin:
+  - Binance Attack
   - 2 sites of Capsnets
     - https://becominghuman.ai/understanding-capsnet-part-1-e274943a018d
     - https://jhui.github.io/2017/11/03/Dynamic-Routing-Between-Capsules/
