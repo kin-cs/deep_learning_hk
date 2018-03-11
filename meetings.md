@@ -7,7 +7,16 @@
     - https://jhui.github.io/2017/11/03/Dynamic-Routing-Between-Capsules/
     - Good notebook: https://github.com/ageron/handson-ml/blob/master/extra_capsnets.ipynb
   - Eliptic Curve Crypto
+  - Optimize Pandas: https://www.jiqizhixin.com/articles/2018-03-07-3
 
+### Pong:
+  - Moving :)
+  
+### San:
+  - Slacking ;)
+  
+### Vincent:
+  - 
 ---
 
 # 2018-03-04
