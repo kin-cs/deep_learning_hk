@@ -1,7 +1,18 @@
+# 2018-03-11
+
+### Kin:
+  - 2 sites of Capsnets
+    - https://becominghuman.ai/understanding-capsnet-part-1-e274943a018d
+    - https://jhui.github.io/2017/11/03/Dynamic-Routing-Between-Capsules/
+    - Good notebook: https://github.com/ageron/handson-ml/blob/master/extra_capsnets.ipynb
+  - Eliptic Curve Crypto
+
+---
+
 # 2018-03-04
 
 ### Kin:
-  - Theory of Mind
+  - Machine Theory of Mind
   - Bitcoin(Proof of Work/ Ledger) <-> Ethereum (Proof of Stake/ Oracle/ Smart Contract) <-> EOS (No Transaction Fee)
 ### Pong:
   - Meta Learning
