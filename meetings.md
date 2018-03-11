@@ -8,6 +8,10 @@
     - Good notebook: https://github.com/ageron/handson-ml/blob/master/extra_capsnets.ipynb
   - Eliptic Curve Crypto
   - Optimize Pandas: https://www.jiqizhixin.com/articles/2018-03-07-3
+  - very good machine learning notes:
+  https://www.slideshare.net/TessFerrandez/a-developers-guide-to-machine-learning?next_slideshow=1
+  - very good deep learning notes:
+  https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng
 
 ### Pong:
   - Moving :)
@@ -16,7 +20,7 @@
   - Slacking ;)
   
 ### Vincent:
-  - 
+  - ??
 ---
 
 # 2018-03-04
