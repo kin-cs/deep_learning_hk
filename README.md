@@ -11,3 +11,6 @@ https://blog.openai.com/evolution-strategies/
 ## Discussion Topics
 Deep Learning Achievement 2017 - by **statsbot**
 https://blog.statsbot.co/deep-learning-achievements-4c563e034257
+
+Popular Github projects in 2017
+https://www.jiqizhixin.com/articles/2017-12-21-10
