@@ -1,3 +1,11 @@
+# 2018-03-XX
+
+### Kin
+  - https://github.com/marcotcr/lime (LIME - Local Interpretable Model-agnostic explanations) 2016
+    - eg https://blogs.ancestry.com/ancestry/2017/12/18/understanding-machine-learning-xgboost/
+  
+
+
 # 2018-03-11
 
 ### Kin:
