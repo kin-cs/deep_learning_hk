@@ -10,7 +10,20 @@
 ### Pong
   - Chinese Translation, surpass human's level
     https://blogs.microsoft.com/ai/machine-translation-news-test-set-human-parity/
-  -
+
+### San
+  - Anchor box:
+    https://www.coursera.org/learn/convolutional-neural-networks/lecture/yNwO0/anchor-boxes
+    
+### Roy
+  - Nvidia's Digits
+    https://developer.nvidia.com/digits
+  - Nvidia's TensorRT
+    https://developer.nvidia.com/tensorrt
+  - Ray Tracing - optix
+    https://developer.nvidia.com/optix
+    
+
       
 ### Build up all the settings:
 - Medium Page
