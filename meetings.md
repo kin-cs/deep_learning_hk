@@ -6,6 +6,11 @@
   - Mining Knowledge Graphs from Text
       - https://kgtutorial.github.io/
       
+### Pong
+  - Chinese Translation, surpass human's level
+    https://blogs.microsoft.com/ai/machine-translation-news-test-set-human-parity/
+  -
+      
 ### Build up all the settings:
 - Medium Page
 - Github page
