@@ -4,7 +4,8 @@
   - https://github.com/marcotcr/lime (LIME - Local Interpretable Model-agnostic explanations) 2016
     - eg https://blogs.ancestry.com/ancestry/2017/12/18/understanding-machine-learning-xgboost/
   - Mining Knowledge Graphs from Text
-      - https://kgtutorial.github.io/
+      - The very good explain (by far I see): https://kgtutorial.github.io/
+      - a little eplain: https://hackernoon.com/wtf-is-a-knowledge-graph-a16603a1a25f
       
 ### Pong
   - Chinese Translation, surpass human's level
