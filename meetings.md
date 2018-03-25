@@ -5,6 +5,15 @@
     - eg https://blogs.ancestry.com/ancestry/2017/12/18/understanding-machine-learning-xgboost/
   - Mining Knowledge Graphs from Text
       - https://kgtutorial.github.io/
+      
+### Build up all the settings:
+- Medium Page
+- Github page
+- Kaggle Competition arrangement
+- Meeting Venue
+- Bootcamp
+  - Promotions
+  - hard deadline for dry-run
   
 
 
