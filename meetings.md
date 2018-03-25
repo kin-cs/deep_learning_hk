@@ -10,6 +10,8 @@
 ### Pong
   - Chinese Translation, surpass human's level
     https://blogs.microsoft.com/ai/machine-translation-news-test-set-human-parity/
+  - Intel's MKL , Distribution for Python
+    https://software.intel.com/en-us/distribution-for-python
 
 ### San
   - Anchor box:
